@@ -11,4 +11,6 @@ Welcome to my website. My name is Yihong Xu (徐轶弘). I am a fifth year Ph.D.
 
 Research fields: Econometrics Theory, Applied Econometrics
 
+My CV: [[PDF]](../assets/[Yihong Xu] CV.pdf)
+
 Email: kaiserxu_96@tamu.edu
