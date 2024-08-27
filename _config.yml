@@ -24,11 +24,11 @@ author:
   avatar           : "hp_yihong.png"
   name             : "Yihong Xu (徐轶弘)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "kaiserxu_96@tamu.edu" 
+  email            : #"kaiserxu_96@tamu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
