@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yihong Xu / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yihong Xu"
 description              : &description "personal description"
 url                      : https://yihong-xu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
