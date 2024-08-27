@@ -15,5 +15,7 @@ Working Paper
 Works in Progress
 ======
 "Constrained Bayesian Variable Selection", with Quan Zhou
+
 "A Structure Analysis of Combinatorial Auction with Reinforcement Learning", with Li Zheng
+
 "Robust Bayesian Learning: An Application to Penalized Splines"
