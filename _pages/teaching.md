@@ -3,62 +3,20 @@ layout: archive
 title: "TEACHING"
 permalink: /teaching/
 author_profile: true
-#redirect_from:
-#  - /resume
+
 ---
 
 {% include base_path %}
 
 Teaching Assistant/Recitation Instructor (Texas A&M University)
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Microeconomic Theory I & II (Ph.D. Core Course, Spring 2022 & Fall 2021)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Introduction to Econometrics (Undergraduate, Fall 2023 & Fall 2020)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Antitrust Economics (Undergraduate, Fall 2022)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Introduction to Economic Data Analysis (Undergraduate, Spring 2024)
+
+Data Science for Future Decision Makers (Undergraduate, Fall 2024)
