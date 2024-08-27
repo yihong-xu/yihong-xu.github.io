@@ -1,20 +1,26 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant/Recitation Instructor(Texas A&M University) "
 collection: teaching
-type: "Undergraduate course"
+#type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+#venue: "University 1, Department"
+#date: 2014-01-01
+#location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Microeconomic Theory I & II (Ph.D. Core Course, Spring 2022 & Fall 2021)
 
-Heading 1
-======
+Introduction to Econometrics (Undergraduate, Fall 2023 & Fall 2020) 
 
-Heading 2
-======
+Antitrust Economics (Undergraduate, Fall 2022)
 
-Heading 3
-======
+Introduction to Economic Data Analysis (Undergraduate, Spring 2024) 
+
+Data Science for Future Decision Makers (Undergraduate, Fall 2024) 
+
+
+
+ 
+
+
+
