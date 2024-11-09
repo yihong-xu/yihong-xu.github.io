@@ -10,12 +10,12 @@ author_profile: true
 
 Working Paper
 ======
+"Synthetic Control via Bayesian Variable Selection with a Soft Simplex Constraint ", with Quan Zhou \[Under Review at Journal of Econometrics\]
+
 "Quantile Treatment Effects in High Dimensional Panel Data ", with Li Zheng
 
 Works in Progress
 ======
-"Constrained Bayesian Variable Selection", with Quan Zhou
-
-"A Structure Analysis of Combinatorial Auction with Reinforcement Learning", with Li Zheng
+"Doubly Robust Estimation for Causal Inference with Nonclassical Measurement Errors", with Li Zheng
 
 "Robust Bayesian Learning: An Application to Penalized Splines"
