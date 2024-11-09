@@ -13,4 +13,4 @@ Research fields: Econometrics, Applied Econometrics, Bayesian Statistics
 
 My CV: [[PDF]](../assets/[Yihong Xu] CV.pdf)
 
-Email: [kaiserxu_96@tamu.edu](kaiserxu_96@tamu.edu)
+Email: [kaiserxu_96@tamu.edu](mailto:kaiserxu_96@tamu.edu)
