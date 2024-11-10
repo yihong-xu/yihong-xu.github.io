@@ -10,7 +10,7 @@ author_profile: true
 
 Working Paper
 ======
-"Synthetic Control via Bayesian Variable Selection with a Soft Simplex Constraint ", with Quan Zhou \[Under Review at Journal of Econometrics\]
+"Synthetic Control via Bayesian Variable Selection with a Soft Simplex Constraint ", with Quan Zhou \[Under Review at *Journal of Econometrics*\]
 
 "Quantile Treatment Effects in High Dimensional Panel Data ", with Li Zheng
 
