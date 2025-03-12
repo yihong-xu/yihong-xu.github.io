@@ -10,7 +10,7 @@ author_profile: true
 
 Working Paper
 ======
-"Synthetic Control via Bayesian Variable Selection with a Soft Simplex Constraint ", with Quan Zhou 
+"Bayesian Synthetic Control with a Soft Simplex Constraint", with Quan Zhou  [arXiv](https://arxiv.org/abs/2503.06454)
 
 "Quantile Treatment Effects in High Dimensional Panel Data ", with Li Zheng \[Under Review at *Journal of Business & Economic Statistics*\]
 
