@@ -7,9 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-#<div style="float: right; margin-left: 30px; margin-bottom: 10px;">
-#  <img src="/images/hp_yihong.png" alt="Yihong Xu" width="250px" style="border-radius: 10px;">
-#</div>
+
+
+<div style="display:none">
+<div style="float: right; margin-left: 30px; margin-bottom: 10px;">
+  <img src="/images/hp_yihong.png" alt="Yihong Xu" width="250px" style="border-radius: 10px;">
+</div>
+</div>
+
 
 Welcome to my website. I am a Ph.D. candidate in the [School of Economics](https://artsci.tamu.edu/economics/index.html) at Texas A&M University.
 
