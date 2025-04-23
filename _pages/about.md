@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 <style>
-.page__content {
+/* 精确控制内容整体靠左 */
+.page {
   margin-left: 0 !important;
+  padding-left: 2rem;
   max-width: 900px;
 }
 </style>
