@@ -7,11 +7,27 @@ redirect_from:
   - /about.html
 ---
 <style>
-/* 精确控制内容整体靠左 */
-.page {
-  margin-left: 0 !important;
-  padding-left: 2rem;
+/* 覆盖主题默认的容器对齐方式 */
+.page__inner-wrap {
   max-width: 900px;
+  margin: 0 auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+/* 内容文字区域靠左 */
+.main-content {
+  flex: 1;
+}
+
+/* 图片靠右上 */
+.sidebar-photo {
+  margin-left: 40px;
+  flex-shrink: 0;
 }
 </style>
 
