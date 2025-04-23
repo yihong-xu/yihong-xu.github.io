@@ -236,6 +236,8 @@ defaults:
       comments: true
       share: true
       related: true
+    sidebar:
+      nav: null
   # _pages
   - scope:
       path: ""
@@ -243,6 +245,8 @@ defaults:
     values:
       layout: single
       author_profile: false
+    sidebar:
+      nav: null
   # _teaching
   - scope:
       path: ""
@@ -252,6 +256,8 @@ defaults:
       author_profile: false
       share: true
       comments: true
+    sidebar:
+      nav: null
   # _publications
   - scope:
       path: ""
@@ -261,6 +267,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
+    sidebar:
+      nav: null
   # _portfolio
   - scope:
       path: ""
