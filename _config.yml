@@ -236,8 +236,6 @@ defaults:
       comments: true
       share: true
       related: true
-    sidebar:
-      nav: null
   # _pages
   - scope:
       path: ""
