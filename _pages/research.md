@@ -16,6 +16,10 @@ Working Paper
 
 Works in Progress
 ======
+"Super Learning: A Multiply Robust Approach in Two-Stage Semiparametric Estimation for Causal and Structural Parameters", with Li Zheng, Weiwen Yin
+
+"Quantile Matrix Completion"
+
 "Doubly Robust Estimation for Causal Inference with Nonclassical Measurement Errors", with Li Zheng
 
 "Robust Bayesian Learning: An Application to Penalized Splines"
