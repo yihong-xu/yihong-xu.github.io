@@ -12,6 +12,13 @@ Working Paper
 ======
 "Bayesian Synthetic Control with a Soft Simplex Constraint", with Quan Zhou  [\[arXiv\]](https://arxiv.org/abs/2503.06454)
 
+
+<details>
+<summary>Abstract</summary>
+
+This is a test.
+</details>
+
 "Quantile Treatment Effects in High Dimensional Panel Data", with Li Zheng [\[arXiv\]](https://arxiv.org/abs/2504.00785) \[2nd Round R&R at *Journal of Business & Economic Statistics* (Minor Revision)\] 
 
 Works in Progress
