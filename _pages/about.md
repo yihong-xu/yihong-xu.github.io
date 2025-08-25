@@ -18,7 +18,6 @@ redirect_from:
 
 Welcome to my website. I am a Ph.D. candidate in the [School of Economics](https://artsci.tamu.edu/economics/index.html) at Texas A&M University.
 
-My primary research interests lie in econometric theory and Bayesian statistics, with a focus on causal inference, high-dimensional Bayesian inference, and Bayesian variable selection. I am particularly interested in their intersections, such as causal inference under high-dimensional controls, as well as developing corresponding Markov Chain Monte Carlo methods.
-
+Research interests: Econometrics (policy evaluation, causal inference, debiased machine learning), Bayesian statistics (high-dimensional Bayesian inference, variable selection, Markov chain Monte Carlo sampling)
 
 Welcome to reach out for collaboration :) [Email](mailto:kaiserxu_96@tamu.edu)
