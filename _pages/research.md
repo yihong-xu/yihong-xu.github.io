@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: false
+#title: "Research"
 permalink: /research/
 author_profile: true
 
