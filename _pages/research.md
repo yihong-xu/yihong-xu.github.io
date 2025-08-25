@@ -10,7 +10,7 @@ author_profile: true
 
 Working Paper
 ======
-"Bayesian Synthetic Control with a Soft Simplex Constraint", with Quan Zhou  [\[arXiv\]](https://arxiv.org/abs/2503.06454)
+"Bayesian Synthetic Control with a Soft Simplex Constraint", with Quan Zhou  [\[arXiv\]](https://arxiv.org/abs/2503.06454) (JMP)
 
 
 <details>
@@ -26,7 +26,9 @@ Whether the synthetic control method should be implemented with the simplex cons
 <summary>Abstract</summary>
 
 We introduce novel estimators for quantile causal effects with high dimensional panel data (large N and T), where only one or a few units are affected by the intervention or policy. Our method extends the generalized synthetic control method (Xu, 2017) from average treatment effects on the treated to quantile treatment effects on the treated, allowing the underlying factor structure to change across the quantile of the interested outcome distribution. Our method involves estimating the quantile-dependent factors using the control group, followed by a quantile regression to estimate the quantile treatment effect using the treated units. We establish the asymptotic properties of our estimators and propose a bootstrap procedure for statistical inference, supported by simulation studies. An empirical application of the 2008 China Stimulus Program is provided.
+
 </details>
+
 
 Works in Progress
 ======
