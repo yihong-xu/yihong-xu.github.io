@@ -10,7 +10,9 @@ author_profile: true
 
 Working Paper
 ======
-"Bayesian Synthetic Control with a Soft Simplex Constraint", with Quan Zhou  [\[arXiv\]](https://arxiv.org/abs/2503.06454) \[JMP\]
+"Bayesian Variable Selection with A Soft Simplex Constraint: An Application to Synthetic Control Method", with Quan Zhou \[JMP\]  
+
+\[ Draft coming soon. See a former version [here](https://arxiv.org/abs/2503.06454).\]
 
 
 <details>
