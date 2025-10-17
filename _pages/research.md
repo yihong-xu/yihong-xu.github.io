@@ -40,6 +40,6 @@ Works in Progress
 
 "Quantile Matrix Completion"
 
-"Doubly Robust Estimation for Causal Inference with Nonclassical Measurement Errors", with Li Zheng
+"Doubly Robust Estimation for Causal Inference with Nonclassical Measurement Errors"
 
 "Robust Bayesian Learning: An Application to Penalized Splines"
