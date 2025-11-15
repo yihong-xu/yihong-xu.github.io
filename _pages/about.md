@@ -16,7 +16,7 @@ redirect_from:
 </div>
 
 
-I am a Ph.D. candidate in the [School of Economics](https://artsci.tamu.edu/economics/index.html) at Texas A&M University. I'm on the 25-26 job market. 
+I am a Ph.D. candidate in the [Department of Economics](https://artsci.tamu.edu/economics/index.html) at Texas A&M University. I'm on the 25-26 job market. 
 
 Research interests: Econometrics (policy evaluation, causal inference, debiased machine learning), Bayesian statistics (high-dimensional Bayesian inference, variable selection, Markov chain Monte Carlo sampling)
 
