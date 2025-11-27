@@ -12,7 +12,7 @@ Working Paper
 ======
 "Bayesian Synthetic Control with a Soft Simplex Constraint", with Quan Zhou \[JMP\]  [\[Draft\]](https://drive.google.com/file/d/1HKe4itKzJ5nimItUCmOiAGj9oeorRezM/view?usp=sharing) [\[arXiv\]](https://arxiv.org/abs/2503.06454) 
 
-
+<!--[\[SEA slides\]](https://yihong-xu.github.io/assets/SEA_Slides.pdf)-->
 
 <details>
 <summary>Abstract</summary>
@@ -46,4 +46,4 @@ Works in Progress
 "Robust Bayesian Learning: An Application to Penalized Splines"
 
 
-<!--[\[SEA slides\]](https://yihong-xu.github.io/assets/SEA_Slides.pdf)--!>
+
