@@ -11,7 +11,7 @@ author_profile: true
 Working Paper
 ======
 "Bayesian Synthetic Control with a Soft Simplex Constraint", with Quan Zhou \[JMP\]  [\[Draft\]](https://drive.google.com/file/d/1HKe4itKzJ5nimItUCmOiAGj9oeorRezM/view?usp=sharing) [\[arXiv\]](https://arxiv.org/abs/2503.06454) 
-#[\[SEA slides\]](https://yihong-xu.github.io/assets/SEA_Slides.pdf)
+
 
 
 <details>
@@ -44,3 +44,6 @@ Works in Progress
 "Doubly Robust Estimation for Causal Inference with Nonclassical Measurement Errors"
 
 "Robust Bayesian Learning: An Application to Penalized Splines"
+
+
+<!--[\[SEA slides\]](https://yihong-xu.github.io/assets/SEA_Slides.pdf)--!>
